@@ -1,6 +1,6 @@
 # Git credential helper for bitwarden password manager
 
-Get your git repository username and password automatically from bitwarden, so that you truly only need to know they master password when coding.
+Get your git repository username and password automatically from bitwarden, so that you truly only need to know the master password when coding.
 
 ## Requirements
 
